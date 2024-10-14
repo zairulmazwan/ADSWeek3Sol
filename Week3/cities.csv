@@ -1,0 +1,9 @@
+﻿,Chicago,Dallas,Denver,LA,Miami,New York,San Diego,San Francisco
+Chicago,0,0,20,0,0,0,0,25
+Dallas,0,0,0,80,0,0,90,0
+Denver,0,0,0,100,0,0,0,75
+LA,0,0,0,0,0,0,0,0
+Miami,0,50,0,0,0,0,0,0
+New York,75,125,100,0,90,0,0,0
+San Diego,0,0,0,45,0,0,0,0
+San Francisco,0,0,0,45,0,0,0,0

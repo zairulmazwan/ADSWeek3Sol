@@ -1,0 +1,14 @@
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/bin/Debug/net8.0/Week3
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/bin/Debug/net8.0/Week3.deps.json
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/bin/Debug/net8.0/Week3.runtimeconfig.json
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/bin/Debug/net8.0/Week3.dll
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/bin/Debug/net8.0/Week3.pdb
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/obj/Debug/net8.0/Week3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/obj/Debug/net8.0/Week3.AssemblyInfoInputs.cache
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/obj/Debug/net8.0/Week3.AssemblyInfo.cs
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/obj/Debug/net8.0/Week3.csproj.CoreCompileInputs.cache
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/obj/Debug/net8.0/Week3.dll
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/obj/Debug/net8.0/refint/Week3.dll
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/obj/Debug/net8.0/Week3.pdb
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/obj/Debug/net8.0/Week3.genruntimeconfig.cache
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/obj/Debug/net8.0/ref/Week3.dll
