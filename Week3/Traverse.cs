@@ -34,6 +34,7 @@ public class Traverse
 
     public static List<List<int>> getRoutes (int start, int end, List<int> path)
     {
+        path = path ?? new List<int>(); //Set a new list if path is null
         path.Add(start);
 
         if (start == end)

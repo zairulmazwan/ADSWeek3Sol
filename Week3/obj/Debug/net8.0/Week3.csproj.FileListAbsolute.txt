@@ -12,3 +12,4 @@
 /Users/zairulmazwan/Dotnet/Week3Sol/Week3/obj/Debug/net8.0/Week3.pdb
 /Users/zairulmazwan/Dotnet/Week3Sol/Week3/obj/Debug/net8.0/Week3.genruntimeconfig.cache
 /Users/zairulmazwan/Dotnet/Week3Sol/Week3/obj/Debug/net8.0/ref/Week3.dll
+/Users/zairulmazwan/Dotnet/Week3Sol/Week3/obj/Debug/net8.0/Week3.sourcelink.json
